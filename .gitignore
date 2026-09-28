@@ -1,0 +1,8 @@
+# Virtual environments
+.venv/
+
+# Build artifacts and caches
+__pycache__/
+*.py[cod]
+.dist/
+.build/
