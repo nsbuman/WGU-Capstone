@@ -10,8 +10,10 @@ requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.2",
+    "nbconvert>=7.17.1",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
+    "pandoc>=2.4",
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
 ]
