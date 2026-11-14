@@ -23,4 +23,4 @@ This data analytics project utilizes historical hotel booking data to predict th
 ## Project Deliverables
 1. **[notebook.ipynb](notebook.ipynb):** The complete data preprocessing, feature engineering, and machine learning pipeline.
 2. **[Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.buman/viz/capstone_17911669073430/HotelBookingCancellationsTrendsPredictiveDrivers)** Interactive visual summary of geographical cancellation trends and predictive feature importance.
-4. **Capstone Report:** Comprehensive documentation of the CRISP-DM methodology, statistical significance, and actionable business recommendations.
+4. **[Capstone Report](report.pdf):** Comprehensive documentation of the CRISP-DM methodology, statistical significance, and actionable business recommendations.
